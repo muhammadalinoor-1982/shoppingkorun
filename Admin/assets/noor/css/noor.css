@@ -1,0 +1,94 @@
+@font-face
+{
+	font-family: title_font;
+	src: url(../fonts/Medusa_Gothic.otf);
+}
+
+.tfont
+{
+	font-family: title_font;
+}
+
+.bground
+{
+	position: absolute;
+	width: 100;
+	background-image: url('../images/1400x700.png'); 
+	background-repeat: no-repeat;
+}
+
+.noorbg
+{
+	
+	background: linear-gradient(#000, #7a0531, #000);
+}
+
+.noorright
+{
+	background-image: url('../images/750x240.png'); 
+	background-repeat: no-repeat;
+	background: linear-gradient(#000, #7a0531, #000);
+}
+
+.noor_card_bg
+{
+background: linear-gradient(#000, #7a0531, #000);	
+}
+
+.noor_card
+{
+	height: 60px;
+}
+
+.noor_h5
+{
+	text-align: center; 
+	color: #42f4e8;
+}
+
+.noor_h6
+{
+	color: #000;
+}
+
+.noor_span
+{
+	color: red;
+}
+
+.nav_color
+{
+ color: #f21e0e;
+}
+
+thead
+{
+	background-color: #0269f9;
+	color: #fff;
+}
+
+tfoot
+{
+	background-color: #0269f9;
+	color: #fff;
+}
+.noor_radio
+{
+	position: relative;
+	float: left;
+	padding-left: 100px;
+}
+
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #005ef7;
+    padding: 10px;
+    border-radius: 5px;
+    background: #005ef7;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    color: #fff;
+}

@@ -1,0 +1,7 @@
+[11-Feb-2019 04:05:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingkorun/public_html/NOOR_Enterprise/Admin/controller/messageMailProcess.php on line 13
+[11-Feb-2019 04:11:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 13
+[11-Feb-2019 04:25:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 13
+[12-Feb-2019 12:28:22 Etc/GMT] PHP Notice:  Undefined index: checkbox in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 7
+[12-Feb-2019 12:31:53 Etc/GMT] PHP Notice:  Undefined index: checkbox in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 7
+[18-Feb-2019 01:44:20 Etc/GMT] PHP Notice:  Undefined index: checkbox in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 7
+[18-Feb-2019 01:45:20 Etc/GMT] PHP Notice:  Undefined index: checkbox in /home/shoppingkorun/public_html/Admin/controller/messageMailProcess.php on line 7

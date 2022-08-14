@@ -1,0 +1,2 @@
+1. How to use combo button as input (user_type: Admin, Supervisor, Operator)
+2. How to us Radio button as input (Status: Active, Inactive)

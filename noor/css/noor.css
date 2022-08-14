@@ -1,0 +1,299 @@
+.spa{
+background-color: orange;
+}
+.spa2{
+background-color: green;
+display: none;
+}
+.spa3{
+background-color: brown;
+display: none;
+
+}
+.spa4{
+background-color: yellow;
+display: none;
+
+}
+.spa5{
+background-color: blue;
+display: none;
+}
+.spa6{
+background-color: black;
+display: none;
+}
+.btn1{
+color:#00a9ff;
+}
+.btn2{
+color:#00a9ff;	
+}
+.btn3{
+color:#00a9ff;	
+}
+.btn4{
+color:#00a9ff;	
+}
+.btn5{
+color:#00a9ff;	
+}
+.btn6{
+color:#00a9ff;	
+}
+.boxx{
+width:200px;
+height: 200px;
+float: left;
+margin-left: 20px;
+background-color: orange;
+}
+
+.one {
+  position: relative;
+  top: -30px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #ff0000 0%, #e80000 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.one:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.two {
+  position: relative;
+  top: -25px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #d6e500 0%, #eeff00 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.two:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.three {
+  position: relative;
+  top: -30px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #0400ff 0%, #0200bf 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.three:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.four {
+  position: relative;
+  top: -25px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #d100b8 0%, #ff00e1 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.four:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.five {
+  position: relative;
+  top: -30px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #00fcfc 0%, #06c9c9 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.five:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.six {
+  position: relative;
+  top: -25px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #ffa500 0%, #e06c06 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.six:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.seven {
+  position: relative;
+  top: -30px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #00ff04 0%, #00b503 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.seven:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.eight {
+  position: relative;
+  top: -25px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #0099ff 0%, #0063a5 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.eight:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.nine {
+  position: relative;
+  top: -30px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #0f1823 0%, #0b1521 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.nine:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.ten {
+  position: relative;
+  top: -25px;
+  left: -80px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #4f348e 0%, #3e2182 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.ten:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.eleven {
+  position: relative;
+  top: -130px;
+  left: -55px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #ff4300 0%, #bc3100 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.eleven:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+.twoelve {
+  position: relative;
+  top: -235px;
+  left: 195px;
+  float: left;
+  width: 25px;
+  height: 70px;
+  border-radius: 50px;
+  background: linear-gradient(to bottom, #0092a3 0%, #106670 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 15px;
+  transition: all 2s ease-out;
+}
+
+.twoelve:hover {
+  transform: rotateZ(180deg) rotateY(180deg);
+}
+
+.thirteen {
+  position: relative;
+  top: -240px;
+  left: 195px;
+  float: left;
+  width: 25px;
+  height: 80px;
+  border-radius: 50px;
+  background: linear-gradient(to top, #83ff00 0%, #63c100 100%);
+  font-size: 300%;
+  text-align: center;
+  padding-top: 20px;
+  transition: all 2s ease-out;
+}
+
+.thirteen:hover {
+  transform: rotateY(180deg) rotateZ(180deg);
+}
+
+
